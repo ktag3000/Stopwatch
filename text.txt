@@ -1,0 +1,9 @@
+TODO
+1. Center :
+2. JS file
+
+IDEA
+1. Multiple stop watches
+   a. button to click to create more
+   b. reset back to default for all
+2. 

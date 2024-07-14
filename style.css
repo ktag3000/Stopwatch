@@ -1,0 +1,43 @@
+* {
+  background-color: rgb(58, 57, 57);
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Display */
+.digit {
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.txt {
+  font-size: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-self: center;
+  justify-self: center;
+}
+
+/* Buttons */
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-left: 10px;
+}
+
+.btn {
+  font-size: 25px;
+  border: none;
+}
+
+button:hover {
+  color: yellowgreen;
+}
