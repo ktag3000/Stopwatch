@@ -39,6 +39,11 @@
   border: none;
 }
 
+/* Hide count */
+#count {
+  display: none;
+}
+
 #start:hover {
   color: yellowgreen;
 }
