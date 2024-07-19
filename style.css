@@ -44,6 +44,11 @@
   display: none;
 }
 
+/* Hide stop button */
+#stop {
+  display: none;
+}
+
 #start:hover {
   color: yellowgreen;
 }
