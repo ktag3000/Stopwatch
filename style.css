@@ -40,15 +40,12 @@
 }
 
 /* Hide count */
-#count {
-  display: none;
-}
-
-/* Hide stop button */
+#count,
 #stop {
   display: none;
 }
 
+/* Button hover options */
 #start:hover {
   color: yellowgreen;
 }

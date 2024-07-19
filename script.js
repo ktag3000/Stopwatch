@@ -8,12 +8,6 @@ let minute = 00;
 let second = 00;
 let count = 00;
 
-// Set css properties on page load
-// window.onload = function () {
-//   startBtn.style.display = "block";
-//   stopBtn.style.display = "none";
-// };
-
 // Button click events
 startBtn.addEventListener("click", function () {
   timer = true;
