@@ -1,9 +1,5 @@
-TODO
-1. Center :
-2. JS file
-
-IDEA
+IDEAS
 1. Multiple stop watches
-   a. button to click to create more
-   b. reset back to default for all
+   a. Button to click to create more
+   b. Reset back to default for all
 2. 
