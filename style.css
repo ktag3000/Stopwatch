@@ -39,7 +39,7 @@
   border: none;
 }
 
-/* Hide count */
+/* Hide elements */
 #count,
 #stop {
   display: none;
