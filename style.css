@@ -57,3 +57,46 @@
 #reset:hover {
   color: gray;
 }
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+  .digit,
+  .txt {
+    font-size: 70px;
+  }
+
+  .btn {
+    font-size: 20px;
+  }
+
+  .buttons {
+    margin-left: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  .digit,
+  .txt {
+    font-size: 50px;
+  }
+
+  .btn {
+    font-size: 18px;
+  }
+
+  .buttons {
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
+@media (max-width: 320px) {
+  .digit,
+  .txt {
+    font-size: 40px;
+  }
+
+  .btn {
+    font-size: 16px;
+  }
+}
