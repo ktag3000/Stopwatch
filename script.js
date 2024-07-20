@@ -1,4 +1,4 @@
-"use scrict";
+"use strict";
 
 // Timer buttons
 let startBtn = document.getElementById("start");
